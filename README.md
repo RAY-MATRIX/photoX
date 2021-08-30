@@ -1,4 +1,4 @@
-# photoX
-photox
+# PHOTOX Website
 
-https://matrixess.github.io/photoX/
+
+https://ray-matrix.github.io/photoX/
